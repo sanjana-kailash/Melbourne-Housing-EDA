@@ -16,7 +16,7 @@ The project is designed as a **portfolio piece** to demonstrate practical data a
 - **Suburb Comparison**: Premium suburbs like Canterbury, Middle Park, and Malvern show significantly higher average house prices.  
 - **Top Agencies**: Agencies like Buxton and Biggin handle the largest number of sales.  
 - **Property Type Analysis**: Houses tend to have higher median prices than townhouses or units.  
-- **Bedrooms vs Price**: Properties with unusually high bedroom counts skew averages, but 3–4 bedrooms tend to dominate the market.  
+- **Bedrooms vs Price**: Properties with unusually high bedroom counts skew averages, but 3-4 bedrooms tend to dominate the market.  
 - **Time Trends**: Prices show noticeable fluctuations across years, capturing Melbourne’s real estate cycles.  
 - **Correlation Study**: Price is moderately correlated with building area and number of rooms.  
 
