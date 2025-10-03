@@ -1,4 +1,5 @@
 # Melbourne Housing Market EDA  
+Exploratory Data Analysis (EDA) of Melbourne housing data to uncover insights about property prices, suburbs, and market trends.
 
 ##  Project Overview  
 This project explores the **Melbourne Housing Dataset** with the goal of uncovering insights into the real estate market.  
@@ -8,7 +9,13 @@ Through **data cleaning, visualization, and exploratory data analysis (EDA)**, w
 - How do housing prices trend over time?  
 - What is the relationship between land size, building area, and price?  
 
-The project is designed as a **portfolio piece** to demonstrate practical data analytics and storytelling with Python.  
+##  Dataset
+- **File:** `data/Melbourne_housing.csv`
+- Contains ~34,000 rows and 22 features including:
+  - Suburb, Rooms, Type, Price
+  - Landsize, BuildingArea, YearBuilt
+  - Coordinates (Latitude, Longitude)
+  - Seller agency and method of sale
 
 ---
 
@@ -54,3 +61,8 @@ The project is designed as a **portfolio piece** to demonstrate practical data a
 │ └── melbourne_housing.csv (not uploaded due to size; see Kaggle link below)
 ├── README.md
 └── requirements.txt
+
+##  Author
+Sanjana Kailash  
+Master’s in Data Science @ RMIT|BI Developer @Compass Group | Exploring Data Analytics & AI  
+
